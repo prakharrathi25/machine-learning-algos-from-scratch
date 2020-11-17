@@ -10,7 +10,7 @@ Building popular machine learning algorithms from scratch
 
 ## Why algos from Scratch? 
 
-If you have been involved with Machine Learning for even a month then you know that you can use any ML or DL Algorithm by just importing the scikit-learn library or Keras in less than a minute. However, to fully understand how an algorithm works, it's important to be able to write using just Pandas and Numpy. This is my attempt at doing the same. This is not the most optimal implementation but it is one of the correct ways of implementing these algorithms. This is just for practice and understanding. KD Nuggets writes about [some other benefits](https://www.kdnuggets.com/2016/05/implement-machine-learning-algorithms-scratch.html) of writing these algorithms from scratch this:- 
+If you have been involved with Machine Learning for even a month then you know that you can use any ML or DL Algorithm by just importing the scikit-learn library or Keras in less than a minute. However, to fully understand how an algorithm works, it's important to be able to write using just Pandas and Numpy. This is my attempt at doing the same. This is not the most optimal implementation but it is one of the correct ways of implementing these algorithms. This is just for practice and understanding. KD Nuggets writes about [some other benefits](https://www.kdnuggets.com/2016/05/implement-machine-learning-algorithms-scratch.html) of writing these algorithms from scratch:- 
 
 * It can help us to understand the inner works of an algorithm
 * We could try to implement an algorithm more efficiently
